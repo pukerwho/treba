@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.117 172.729">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e0a458;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>Ресурс 2</title>
+  <g id="Шар_2" data-name="Шар 2">
+    <g id="BACKGROUND_1" data-name="BACKGROUND 1">
+      <g>
+        <line class="cls-1" x1="0.354" y1="154.506" x2="118.764" y2="36.094"/>
+        <line class="cls-1" x1="0.354" y1="172.375" x2="118.764" y2="53.964"/>
+        <line class="cls-1" x1="0.354" y1="136.635" x2="118.764" y2="18.224"/>
+        <line class="cls-1" x1="0.354" y1="118.765" x2="118.764" y2="0.354"/>
+      </g>
+    </g>
+  </g>
+</svg>
