@@ -71,10 +71,10 @@
         <div class="row">
           <div class="col-md-12 p-relative">
             <div class="menu-cover__lists">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Our works</a></li>
-              <li><a href="#">Reviews</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="#about">About Us</a></li>
+              <li><a href="#works">Our works</a></li>
+              <li><a href="#reviews">Reviews</a></li>
+              <li><a href="#footer">Contact</a></li>
             </div>      
           </div>
         </div>

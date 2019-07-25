@@ -22,12 +22,12 @@
 						We create elegant <mark>Wordpress</mark> websites.
 					</div>
 					<div class="welcome__description treba-animate mb-5">
-						Welcome Description
+						Do you need a website?
 					</div>
 					<div class="welcome__button treba-animate">
-						<a href="#about">
+						<div class="callback">
 							Lets talk
-						</a>
+						</div>
 					</div>	
 				</div>
 			</div>
