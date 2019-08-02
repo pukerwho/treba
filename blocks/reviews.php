@@ -4,7 +4,7 @@
 			<div class="col-md-5">
 				<h2 class="treba-animate mb-5">Reviews</h2>
 				<div class="reviews__text treba-animate">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus qui reprehenderit iusto ea molestias doloribus!
+					We try to do the work so that you want to leave a positive feedback.
 				</div>
 				<div class="reviews__quote">
 					<img src="<?php bloginfo('template_url') ?>/img/quote.svg" alt="">
@@ -16,38 +16,38 @@
 						<img src="<?php bloginfo('template_url') ?>/img/reviews1.png" alt="">
 					</div>
 					<div class="reviews__item-text mb-2">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae illum, dignissimos, vitae voluptatum minus officiis totam. Rem, eum fugiat?
+						I want to say thanks to the guys from Treba, especially Cyril. The work was done promptly, creatively, and most importantly, on time.
 					</div>
 					<div class="reviews__item-name">
-						Luke Skywalker
+						Katerina Golitsyna
 					</div>
 					<div class="reviews__item-pos">
-						Director
+						Famous singer and presenter 🎤
 					</div>
 				</div>
 				<div class="reviews__item treba-animate">
 					<div class="reviews__item-avatar">
-						<img src="<?php bloginfo('template_url') ?>/img/reviews1.png" alt="">
+						<img src="<?php bloginfo('template_url') ?>/img/reviews2.jpg" alt="">
 					</div>
 					<div class="reviews__item-text mb-2">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae illum, dignissimos, vitae voluptatum minus officiis totam. Rem, eum fugiat?
+						The team from Treba immediately understood the idea of the site and our vision. This greatly simplified the work. I note that it was easy and pleasant to work.
 					</div>
 					<div class="reviews__item-name">
-						Luke Skywalker
+						Vladimir Lenskiy
 					</div>
 					<div class="reviews__item-pos">
-						Director
+						Co-founder Vidpochivai
 					</div>
 				</div>
 				<div class="reviews__item treba-animate">
 					<div class="reviews__item-avatar">
-						<img src="<?php bloginfo('template_url') ?>/img/reviews1.png" alt="">
+						<img src="<?php bloginfo('template_url') ?>/img/reviews3.png" alt="">
 					</div>
 					<div class="reviews__item-text mb-2">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae illum, dignissimos, vitae voluptatum minus officiis totam. Rem, eum fugiat?
+						We have been working for several months - I am completely satisfied with the result. The site is fire!
 					</div>
 					<div class="reviews__item-name">
-						Luke Skywalker
+						Alexander
 					</div>
 					<div class="reviews__item-pos">
 						Director

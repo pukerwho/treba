@@ -11,7 +11,7 @@
 		<div class="row justify-content-center">
 			<div class="col-md-10">
 				<div class="about__text treba-animate mb-4">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem non, optio nihil dolores eum provident dolor. Sequi, fuga suscipit debitis odio tempora, quo, odit earum ad ipsum numquam totam minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur sit alias laborum. Quibusdam aliquam delectus cupiditate, reprehenderit eum quia itaque, necessitatibus porro, rem, laudantium nisi.
+					We are a small team of professionals who are good enough in creating websites. We are well versed in CMS Wordpress - we believe that this is a great CMS that allows you to solve most of problems. When we created our company, we set for ourselves a goal  - to do well and to keep a responsible approach to work. Therefore, we are deeply immersed in your subject, and you get a website that solves all the business tasks as a result. Our main customers are small business owners, so you can expect on low prices and high quality websites.
 				</div>
 				<div class="about__sign">
 					<div class="about__sign-animate mb-2">

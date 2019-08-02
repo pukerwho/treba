@@ -15,7 +15,7 @@
 								Elite Promo Agency
 							</div>
 							<div class="works__text treba-animate mb-4">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, voluptatem, dicta. Mollitia facilis quaerat aliquam.
+								The task was to create a new site with a modern design. The key element on the site was a video presentation block. We done all tasks  in less than two weeks and as a result the client received a responsive website with a convenient and understandable interface.
 							</div>
 							<div class="works__site treba-animate mb-5">
 								<a href="https://elitepromoagency.com" target="_blank">Visit site</a>
@@ -55,7 +55,7 @@
 								Vidpochivai
 							</div>
 							<div class="works__text treba-animate mb-4">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, voluptatem, dicta. Mollitia facilis quaerat aliquam.
+								This site is a catalog of resort’s vacation houses in Ukraine. It is important that the user can quickly find a suitable housing option. To do this, we have developed a clear navigation and convenient filters for the catalog.
 							</div>
 							<div class="works__site treba-animate mb-5">
 								<a href="https://vidpochivai.com.ua/" target="_blank">Visit site</a>
@@ -95,7 +95,7 @@
 								Autodivan
 							</div>
 							<div class="works__text treba-animate mb-4">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, voluptatem, dicta. Mollitia facilis quaerat aliquam.
+								We received a task from a customer to create a website that will start to sell their expensive autotuning. We approached this task quite creatively. And in the first month of the advertising launch we brought a substantial amount of money to the client. He is definitely pleased.
 							</div>
 							<div class="works__site treba-animate mb-5">
 								<a href="https://vidpochivai.com.ua/" target="_blank">Visit site</a>
