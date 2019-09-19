@@ -55,7 +55,7 @@
 								Vidpochivai
 							</div>
 							<div class="works__text treba-animate mb-4">
-								This site is a catalog of resort’s vacation houses in Ukraine. It is important that the user can quickly find a suitable housing option. To do this, we have developed a clear navigation and convenient filters for the catalog.
+								This site is a catalogue of vacation houses in Ukraine.. It is important that the user can quickly find a suitable housing option. To do this, we have developed a clear navigation and convenient filters for the catalogue
 							</div>
 							<div class="works__site treba-animate mb-5">
 								<a href="https://vidpochivai.com.ua/" target="_blank">Visit site</a>
@@ -95,7 +95,7 @@
 								Autodivan
 							</div>
 							<div class="works__text treba-animate mb-4">
-								We received a task from a customer to create a website that will start to sell their expensive autotuning. We approached this task quite creatively. And in the first month of the advertising launch we brought a substantial amount of money to the client. He is definitely pleased.
+								We received a task from a customer to create a website to sell their expensive car tuning. We accepted the challenge and shortly after the launch the efforts invested started to pay back. Now we have another successful client in our portfolio.
 							</div>
 							<div class="works__site treba-animate mb-5">
 								<a href="https://vidpochivai.com.ua/" target="_blank">Visit site</a>

@@ -16,7 +16,7 @@
 						<img src="<?php bloginfo('template_url') ?>/img/reviews1.png" alt="">
 					</div>
 					<div class="reviews__item-text mb-2">
-						I want to say thanks to the guys from Treba, especially Kyrill. The work was done promptly, creatively, and most importantly, on time.
+						I want to say thanks to the guys from Treba Solutoins, especially to Kirill. Their work was done promptly, creatively, and most importantly, on time.
 					</div>
 					<div class="reviews__item-name">
 						Katerina Golitsyna
@@ -30,7 +30,7 @@
 						<img src="<?php bloginfo('template_url') ?>/img/reviews2.jpg" alt="">
 					</div>
 					<div class="reviews__item-text mb-2">
-						The team from Treba immediately understood the idea of the site and our vision. This greatly simplified the work. I noticed that it was easy and pleasant to work with them.
+						The team from Treba Solutions immediately understood the idea of the site and our needs. This greatly simplified the work. It was easy and pleasant to work with them.
 					</div>
 					<div class="reviews__item-name">
 						Vladimir Lenskiy
