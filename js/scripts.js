@@ -10,6 +10,15 @@ $('.menu-cover__close img, .menu-cover__close-circle').on('click', function(i) {
   $('.menu-cover').css({'display':'none'});
 });
 
+window.addEventListener('scroll', function() {
+  let questionClass = document.querySelector('.question');
+  if (pageYOffset > 90) {
+    questionClass.classList.add('question-open');
+  } else {
+    questionClass.classList.remove('question-open');
+  }
+});
+
 $(window).scroll(function(){
   var h_scroll = $(this).scrollTop();
   if (h_scroll > 56) {
