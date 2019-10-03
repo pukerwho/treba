@@ -17,6 +17,10 @@ Template Name: Main
 	<?php get_template_part('blocks/works') ?>
 </section>
 
+<section id="form">
+	<?php get_template_part('blocks/form') ?>
+</section>
+
 <section id="use">
 	<?php get_template_part('blocks/use') ?>
 </section>
