@@ -1,4 +1,4 @@
-<svg class="c-menu__svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<svg class="c-menu__svg" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
   <path fill="#ffffff" d="M6.6,11.2l2,2L7.9,14l-3.7-3.7l0.8-0.8l0.7,0.7c-0.1-0.3-0.1-0.7,0-1c0.1-0.4,0.3-0.7,0.5-0.9
     C6.7,7.6,7.3,7.5,8,7.7C7.9,6.9,8.1,6.2,8.7,5.7C9.1,5.2,9.5,5,10.1,5c0.5,0,1,0.2,1.5,0.7L13.8,8L13,8.8l-2-2
     C10.3,6.1,9.7,6,9.1,6.6C8.9,6.8,8.7,7.2,8.7,7.5c0,0.4,0.1,0.7,0.4,1l2.1,2.1l-0.8,0.8l-2-2C8,9,7.7,8.8,7.4,8.8
